@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name VCO-Simple-Back-eagle-import)(type Legacy)(uri ${KIPRJMOD}/VCO-Simple-Back-eagle-import.lib)(options "")(descr ""))
   (lib (name VCO-Simple-Middle-eagle-import)(type Legacy)(uri ${KIPRJMOD}/VCO-Simple-Middle-eagle-import.lib)(options "")(descr ""))
 )
