@@ -1,0 +1,1198 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 16774 10896
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2500 1500 2700 1500
+Wire Wire Line
+	2700 1500 2700 1600
+Wire Wire Line
+	2500 1500 2500 1600
+Wire Wire Line
+	2500 1500 2500 1400
+Wire Wire Line
+	2700 1500 3400 1500
+Wire Wire Line
+	3400 1500 3400 1600
+Wire Wire Line
+	3400 1500 3600 1500
+Wire Wire Line
+	3600 1500 3600 1600
+Wire Wire Line
+	3600 1500 4300 1500
+Wire Wire Line
+	4300 1500 4500 1500
+Wire Wire Line
+	4500 1500 4500 1600
+Wire Wire Line
+	4300 1500 4300 1600
+Connection ~ 2500 1500
+Connection ~ 2700 1500
+Connection ~ 3400 1500
+Connection ~ 3600 1500
+Connection ~ 4300 1500
+Text GLabel 2500 1500 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	2500 4000 2600 4000
+Wire Wire Line
+	2600 4000 2600 3900
+Text GLabel 5700 1500 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	6700 4000 6600 4000
+Wire Wire Line
+	6600 4000 6600 3800
+Wire Wire Line
+	6600 4100 6600 4000
+Connection ~ 6600 4000
+Text GLabel 6700 4000 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	3300 3600 3300 3700
+Text GLabel 3300 3600 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	14700 1500 15300 1500
+Wire Wire Line
+	15300 1500 15300 900 
+Text GLabel 14700 1500 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	13700 5000 13500 5000
+Wire Wire Line
+	13500 5000 13500 4800
+Text GLabel 13700 5000 0    10   BiDi ~ 0
++12V
+Wire Wire Line
+	2200 2000 2200 1900
+Wire Wire Line
+	2200 1900 2700 1900
+Wire Wire Line
+	2700 1900 2700 1800
+Wire Wire Line
+	2700 1900 2700 2000
+Wire Wire Line
+	3600 1800 3600 1900
+Wire Wire Line
+	3600 1900 2700 1900
+Wire Wire Line
+	3600 1900 3600 2000
+Wire Wire Line
+	3600 1900 4500 1900
+Wire Wire Line
+	4500 1900 4500 1800
+Wire Wire Line
+	4500 1900 4500 2000
+Connection ~ 2700 1900
+Connection ~ 3600 1900
+Connection ~ 4500 1900
+Text GLabel 2200 2000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2900 4100 2900 4200
+Wire Wire Line
+	3300 4100 3300 4000
+Wire Wire Line
+	3300 4100 3300 4200
+Connection ~ 2900 4100
+Connection ~ 3300 4100
+Wire Wire Line
+	5400 2000 5400 1900
+Wire Wire Line
+	5400 1900 5700 1900
+Wire Wire Line
+	5700 1900 5700 1800
+Wire Wire Line
+	5700 1900 5700 2000
+Wire Wire Line
+	5700 1900 6800 1900
+Wire Wire Line
+	6800 1900 6800 1800
+Wire Wire Line
+	6800 1900 6800 2000
+Connection ~ 5700 1900
+Connection ~ 6800 1900
+Text GLabel 5400 2000 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13600 3500 13500 3500
+Wire Wire Line
+	13500 3500 13500 3700
+Wire Wire Line
+	13500 3500 13500 1300
+Wire Wire Line
+	13500 1300 13600 1300
+Connection ~ 13500 3500
+Text GLabel 13600 3500 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	14700 1300 14900 1300
+Wire Wire Line
+	14900 1300 14900 3000
+Wire Wire Line
+	14900 3000 14900 3500
+Wire Wire Line
+	14900 3500 14900 3700
+Wire Wire Line
+	14800 3500 14900 3500
+Wire Wire Line
+	14800 3000 14900 3000
+Connection ~ 14900 3500
+Connection ~ 14900 3000
+Text GLabel 14700 1300 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	13700 5200 13600 5200
+Wire Wire Line
+	13600 5200 13600 5300
+Wire Wire Line
+	13600 5300 13600 5400
+Wire Wire Line
+	13600 5400 13600 5500
+Wire Wire Line
+	13600 5500 13600 5900
+Wire Wire Line
+	13700 5300 13600 5300
+Wire Wire Line
+	13700 5400 13600 5400
+Wire Wire Line
+	13700 5500 13600 5500
+Connection ~ 13600 5300
+Connection ~ 13600 5400
+Connection ~ 13600 5500
+Text GLabel 13700 5200 0    10   BiDi ~ 0
+GND
+Wire Wire Line
+	2500 2200 2500 2300
+Wire Wire Line
+	2500 2300 2500 2400
+Wire Wire Line
+	2500 2300 2700 2300
+Wire Wire Line
+	2700 2300 2700 2200
+Wire Wire Line
+	3600 2200 3600 2300
+Wire Wire Line
+	3600 2300 3400 2300
+Wire Wire Line
+	3400 2300 3400 2200
+Wire Wire Line
+	3400 2300 2700 2300
+Wire Wire Line
+	3600 2300 4300 2300
+Wire Wire Line
+	4300 2300 4500 2300
+Wire Wire Line
+	4500 2300 4500 2200
+Wire Wire Line
+	4300 2200 4300 2300
+Connection ~ 2500 2300
+Connection ~ 3400 2300
+Connection ~ 2700 2300
+Connection ~ 3600 2300
+Connection ~ 4300 2300
+Text GLabel 2500 2200 0    10   BiDi ~ 0
+-12V
+Wire Wire Line
+	2500 4200 2600 4200
+Wire Wire Line
+	2600 4200 2600 4300
+Wire Wire Line
+	4700 4000 4500 4000
+Wire Wire Line
+	4500 4000 4200 4000
+Wire Wire Line
+	4200 4000 4200 4100
+Wire Wire Line
+	4500 4100 4500 4000
+Connection ~ 4500 4000
+Text GLabel 4700 4000 0    10   BiDi ~ 0
+-12V
+Wire Wire Line
+	3300 4600 3300 4500
+Text GLabel 3300 4600 0    10   BiDi ~ 0
+-12V
+Wire Wire Line
+	15300 1600 15300 2200
+Text GLabel 14700 1600 0    10   BiDi ~ 0
+-12V
+Wire Wire Line
+	14600 5000 14800 5000
+Wire Wire Line
+	14800 5000 14800 4800
+Text GLabel 14600 5000 0    10   BiDi ~ 0
+-12V
+Text GLabel 5700 2400 0    10   BiDi ~ 0
+-5V
+Wire Wire Line
+	5500 4000 5600 4000
+Wire Wire Line
+	5600 4000 6000 4000
+Wire Wire Line
+	6000 4000 6000 4100
+Wire Wire Line
+	5600 4100 5600 4000
+Connection ~ 5600 4000
+Text GLabel 5500 4000 0    10   BiDi ~ 0
+-5V
+Wire Wire Line
+	6800 2400 6800 2200
+Text GLabel 6800 2400 0    10   BiDi ~ 0
+-5V
+Wire Wire Line
+	14700 1700 15100 1700
+Wire Wire Line
+	15100 1700 15100 2000
+Text GLabel 14700 1700 0    10   BiDi ~ 0
+-5V
+Wire Wire Line
+	14600 5100 15100 5100
+Wire Wire Line
+	15100 5100 15100 4900
+Text GLabel 14600 5100 0    10   BiDi ~ 0
+-5V
+Wire Wire Line
+	6800 1400 6800 1600
+Text GLabel 6800 1400 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	7500 4000 7600 4000
+Wire Wire Line
+	7600 4000 7600 3800
+Wire Wire Line
+	7600 4100 7600 4000
+Connection ~ 7600 4000
+Text GLabel 7500 4000 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	14700 1400 15100 1400
+Wire Wire Line
+	15100 1400 15100 1100
+Text GLabel 14700 1400 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	13700 5100 13200 5100
+Wire Wire Line
+	13200 5100 13200 4900
+Text GLabel 13700 5100 0    10   BiDi ~ 0
++5V
+Wire Wire Line
+	13600 1400 13400 1400
+Text GLabel 13400 1400 0    50   BiDi ~ 0
+PITCH-COURSE
+Wire Wire Line
+	13600 1500 13400 1500
+Text GLabel 13400 1500 0    50   BiDi ~ 0
+PITCH-FINE
+Wire Wire Line
+	13600 3000 13400 3000
+Text GLabel 13400 3000 0    50   BiDi ~ 0
+PULSE-WIDTH
+Wire Wire Line
+	13600 3100 13400 3100
+Text Label 13400 3100 2    50   ~ 0
+PULSE-WIDTH-NORM
+Wire Wire Line
+	14600 5300 14700 5300
+Text Label 14700 5300 0    50   ~ 0
+PULSE-WIDTH-NORM
+Wire Wire Line
+	13600 3200 13400 3200
+Text GLabel 13400 3200 0    50   BiDi ~ 0
+LINEARFM
+Wire Wire Line
+	13600 3400 13400 3400
+Text GLabel 13400 3400 0    50   BiDi ~ 0
+SYNC
+Wire Wire Line
+	13600 3300 13400 3300
+Text GLabel 13400 3300 0    50   BiDi ~ 0
+V/OCT
+Wire Wire Line
+	14800 3400 15000 3400
+Text GLabel 15000 3400 2    50   BiDi ~ 0
+PULSE-OUT
+Wire Wire Line
+	14600 5700 14700 5700
+Text GLabel 14700 5700 2    50   BiDi ~ 0
+PULSE-OUT
+Wire Wire Line
+	14800 3100 15000 3100
+Text GLabel 15000 3100 2    50   BiDi ~ 0
+TRI-OUT
+Wire Wire Line
+	13700 5600 13500 5600
+Text GLabel 13500 5600 0    50   BiDi ~ 0
+TRI-OUT
+Wire Wire Line
+	14800 3200 15000 3200
+Text GLabel 15000 3200 2    50   BiDi ~ 0
+SAW-OUT
+Wire Wire Line
+	13700 5700 13500 5700
+Text GLabel 13500 5700 0    50   BiDi ~ 0
+SAW-OUT
+Wire Wire Line
+	14800 3300 15000 3300
+Text GLabel 15000 3300 2    50   BiDi ~ 0
+SIN-OUT
+Wire Wire Line
+	14600 5600 14700 5600
+Text GLabel 14700 5600 2    50   BiDi ~ 0
+SIN-OUT
+Wire Wire Line
+	14600 5500 14700 5500
+Text Label 14700 5500 0    50   ~ 0
+*RESERVED*
+Wire Wire Line
+	14600 5400 14700 5400
+Text GLabel 14700 5400 2    50   BiDi ~ 0
+SOFT-SYNC
+Wire Wire Line
+	14600 5200 14700 5200
+Text GLabel 14700 5200 2    50   BiDi ~ 0
+V/OCT-EXT
+$Comp
+L VCO-Simple-Back-eagle-import:OPAMP-SINGLE IC1
+U 2 1 38043443
+P 2500 1900
+AR Path="/38043443" Ref="IC1"  Part="2" 
+AR Path="/5FB0FF99/38043443" Ref="IC1"  Part="2" 
+F 0 "IC1" H 2600 2125 59  0001 L BNN
+F 1 "TL071" H 2600 1700 59  0001 L BNN
+F 2 "VCO3340:SO08" H 2500 1900 50  0001 C CNN
+F 3 "" H 2500 1900 50  0001 C CNN
+	2    2500 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C10
+U 1 1 2910DE9F
+P 2700 1700
+AR Path="/2910DE9F" Ref="C10"  Part="1" 
+AR Path="/5FB0FF99/2910DE9F" Ref="C10"  Part="1" 
+F 0 "C10" H 2840 1725 59  0000 L BNN
+F 1 "100n" H 2840 1635 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 2700 1700 50  0001 C CNN
+F 3 "" H 2700 1700 50  0001 C CNN
+	1    2700 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C11
+U 1 1 AC57297C
+P 2700 2100
+AR Path="/AC57297C" Ref="C11"  Part="1" 
+AR Path="/5FB0FF99/AC57297C" Ref="C11"  Part="1" 
+F 0 "C11" H 2840 2125 59  0000 L BNN
+F 1 "100n" H 2840 2035 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 2700 2100 50  0001 C CNN
+F 3 "" H 2700 2100 50  0001 C CNN
+	1    2700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+8
+U 1 1 615237C0
+P 2500 1300
+AR Path="/615237C0" Ref="#P+8"  Part="1" 
+AR Path="/5FB0FF99/615237C0" Ref="#P+08"  Part="1" 
+F 0 "#P+08" H 2500 1300 50  0001 C CNN
+F 1 "+12V" V 2400 1100 59  0000 L BNN
+F 2 "" H 2500 1300 50  0001 C CNN
+F 3 "" H 2500 1300 50  0001 C CNN
+	1    2500 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-7
+U 1 1 90A27C61
+P 2500 2500
+AR Path="/90A27C61" Ref="#P-7"  Part="1" 
+AR Path="/5FB0FF99/90A27C61" Ref="#P-07"  Part="1" 
+F 0 "#P-07" H 2500 2500 50  0001 C CNN
+F 1 "-12V" V 2400 2400 59  0000 L BNN
+F 2 "" H 2500 2500 50  0001 C CNN
+F 3 "" H 2500 2500 50  0001 C CNN
+	1    2500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND15
+U 1 1 37668089
+P 2200 2100
+AR Path="/37668089" Ref="#GND15"  Part="1" 
+AR Path="/5FB0FF99/37668089" Ref="#GND015"  Part="1" 
+F 0 "#GND015" H 2200 2100 50  0001 C CNN
+F 1 "GND" H 2100 2000 59  0000 L BNN
+F 2 "" H 2200 2100 50  0001 C CNN
+F 3 "" H 2200 2100 50  0001 C CNN
+	1    2200 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:POWER_SIMPLE10_SHROUDED P1
+U 1 1 37F9D5D5
+P 2100 4100
+AR Path="/37F9D5D5" Ref="P1"  Part="1" 
+AR Path="/5FB0FF99/37F9D5D5" Ref="P1"  Part="1" 
+F 0 "P1" H 1890 4340 42  0000 L BNN
+F 1 "POWER_SIMPLE10_SHROUDED" H 2100 4100 50  0001 C CNN
+F 2 "VCO3340:POWER_10_SHROUDED" H 2100 4100 50  0001 C CNN
+F 3 "" H 2100 4100 50  0001 C CNN
+	1    2100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-8
+U 1 1 5A264947
+P 2600 4400
+AR Path="/5A264947" Ref="#P-8"  Part="1" 
+AR Path="/5FB0FF99/5A264947" Ref="#P-08"  Part="1" 
+F 0 "#P-08" H 2600 4400 50  0001 C CNN
+F 1 "-12V" V 2500 4300 59  0000 L BNN
+F 2 "" H 2600 4400 50  0001 C CNN
+F 3 "" H 2600 4400 50  0001 C CNN
+	1    2600 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND16
+U 1 1 4CC6CA08
+P 2900 4300
+AR Path="/4CC6CA08" Ref="#GND16"  Part="1" 
+AR Path="/5FB0FF99/4CC6CA08" Ref="#GND016"  Part="1" 
+F 0 "#GND016" H 2900 4300 50  0001 C CNN
+F 1 "GND" H 2800 4200 59  0000 L BNN
+F 2 "" H 2900 4300 50  0001 C CNN
+F 3 "" H 2900 4300 50  0001 C CNN
+	1    2900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+9
+U 1 1 A813F830
+P 2600 3800
+AR Path="/A813F830" Ref="#P+9"  Part="1" 
+AR Path="/5FB0FF99/A813F830" Ref="#P+09"  Part="1" 
+F 0 "#P+09" H 2600 3800 50  0001 C CNN
+F 1 "+12V" V 2500 3600 59  0000 L BNN
+F 2 "" H 2600 3800 50  0001 C CNN
+F 3 "" H 2600 3800 50  0001 C CNN
+	1    2600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C18
+U 1 1 92530984
+P 5700 1700
+AR Path="/92530984" Ref="C18"  Part="1" 
+AR Path="/5FB0FF99/92530984" Ref="C18"  Part="1" 
+F 0 "C18" H 5840 1725 59  0000 L BNN
+F 1 "100n" H 5840 1635 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 5700 1700 50  0001 C CNN
+F 3 "" H 5700 1700 50  0001 C CNN
+	1    5700 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C19
+U 1 1 FD290754
+P 5700 2100
+AR Path="/FD290754" Ref="C19"  Part="1" 
+AR Path="/5FB0FF99/FD290754" Ref="C19"  Part="1" 
+F 0 "C19" H 5840 2125 59  0000 L BNN
+F 1 "100n" H 5840 2035 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 5700 2100 50  0001 C CNN
+F 3 "" H 5700 2100 50  0001 C CNN
+	1    5700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+11
+U 1 1 47FE03AB
+P 5700 1300
+AR Path="/47FE03AB" Ref="#P+11"  Part="1" 
+AR Path="/5FB0FF99/47FE03AB" Ref="#P+011"  Part="1" 
+F 0 "#P+011" H 5700 1300 50  0001 C CNN
+F 1 "+12V" V 5600 1100 59  0000 L BNN
+F 2 "" H 5700 1300 50  0001 C CNN
+F 3 "" H 5700 1300 50  0001 C CNN
+	1    5700 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND19
+U 1 1 BFE1AC94
+P 5400 2100
+AR Path="/BFE1AC94" Ref="#GND19"  Part="1" 
+AR Path="/5FB0FF99/BFE1AC94" Ref="#GND019"  Part="1" 
+F 0 "#GND019" H 5400 2100 50  0001 C CNN
+F 1 "GND" H 5300 2000 59  0000 L BNN
+F 2 "" H 5400 2100 50  0001 C CNN
+F 3 "" H 5400 2100 50  0001 C CNN
+	1    5400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-5V #P-11
+U 1 1 BC3E7874
+P 5700 2500
+AR Path="/BC3E7874" Ref="#P-11"  Part="1" 
+AR Path="/5FB0FF99/BC3E7874" Ref="#P-011"  Part="1" 
+F 0 "#P-011" H 5700 2500 50  0001 C CNN
+F 1 "-5V" V 5600 2400 59  0000 L BNN
+F 2 "" H 5700 2500 50  0001 C CNN
+F 3 "" H 5700 2500 50  0001 C CNN
+	1    5700 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:LM79L05A U1
+U 1 1 70C280EF
+P 5100 4000
+AR Path="/70C280EF" Ref="U1"  Part="1" 
+AR Path="/5FB0FF99/70C280EF" Ref="U1"  Part="1" 
+F 0 "U1" H 4810 4140 59  0000 L BNN
+F 1 "LM79L05A" H 5100 4000 50  0001 C CNN
+F 2 "VCO3340:SOT89" H 5100 4000 50  0001 C CNN
+F 3 "" H 5100 4000 50  0001 C CNN
+	1    5100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND18
+U 1 1 8D801CC1
+P 5100 4400
+AR Path="/8D801CC1" Ref="#GND18"  Part="1" 
+AR Path="/5FB0FF99/8D801CC1" Ref="#GND018"  Part="1" 
+F 0 "#GND018" H 5100 4400 50  0001 C CNN
+F 1 "GND" H 5000 4300 59  0000 L BNN
+F 2 "" H 5100 4400 50  0001 C CNN
+F 3 "" H 5100 4400 50  0001 C CNN
+	1    5100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-10
+U 1 1 67E68E53
+P 4200 4200
+AR Path="/67E68E53" Ref="#P-10"  Part="1" 
+AR Path="/5FB0FF99/67E68E53" Ref="#P-010"  Part="1" 
+F 0 "#P-010" H 4200 4200 50  0001 C CNN
+F 1 "-12V" V 4100 4100 59  0000 L BNN
+F 2 "" H 4200 4200 50  0001 C CNN
+F 3 "" H 4200 4200 50  0001 C CNN
+	1    4200 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-5V #P-12
+U 1 1 DA58DD1F
+P 6000 4200
+AR Path="/DA58DD1F" Ref="#P-12"  Part="1" 
+AR Path="/5FB0FF99/DA58DD1F" Ref="#P-012"  Part="1" 
+F 0 "#P-012" H 6000 4200 50  0001 C CNN
+F 1 "-5V" V 5900 4100 59  0000 L BNN
+F 2 "" H 6000 4200 50  0001 C CNN
+F 3 "" H 6000 4200 50  0001 C CNN
+	1    6000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:OPAMP-DUAL IC4
+U 3 1 7F4D5283
+P 3400 1900
+AR Path="/7F4D5283" Ref="IC4"  Part="3" 
+AR Path="/5FB0FF99/7F4D5283" Ref="IC4"  Part="3" 
+F 0 "IC4" H 3500 2125 59  0001 L BNN
+F 1 "TL072" H 3500 1700 59  0001 L BNN
+F 2 "VCO3340:SO08" H 3400 1900 50  0001 C CNN
+F 3 "" H 3400 1900 50  0001 C CNN
+	3    3400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C12
+U 1 1 B90C0CFE
+P 3600 1700
+AR Path="/B90C0CFE" Ref="C12"  Part="1" 
+AR Path="/5FB0FF99/B90C0CFE" Ref="C12"  Part="1" 
+F 0 "C12" H 3740 1725 59  0000 L BNN
+F 1 "100n" H 3740 1635 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 3600 1700 50  0001 C CNN
+F 3 "" H 3600 1700 50  0001 C CNN
+	1    3600 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C13
+U 1 1 64060324
+P 3600 2100
+AR Path="/64060324" Ref="C13"  Part="1" 
+AR Path="/5FB0FF99/64060324" Ref="C13"  Part="1" 
+F 0 "C13" H 3740 2125 59  0000 L BNN
+F 1 "100n" H 3740 2035 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 3600 2100 50  0001 C CNN
+F 3 "" H 3600 2100 50  0001 C CNN
+	1    3600 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C21
+U 1 1 1CBBD404
+P 6800 1700
+AR Path="/1CBBD404" Ref="C21"  Part="1" 
+AR Path="/5FB0FF99/1CBBD404" Ref="C21"  Part="1" 
+F 0 "C21" H 6940 1725 59  0000 L BNN
+F 1 "100n" H 6940 1635 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 6800 1700 50  0001 C CNN
+F 3 "" H 6800 1700 50  0001 C CNN
+	1    6800 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C22
+U 1 1 60D3C44F
+P 6800 2100
+AR Path="/60D3C44F" Ref="C22"  Part="1" 
+AR Path="/5FB0FF99/60D3C44F" Ref="C22"  Part="1" 
+F 0 "C22" H 6940 2125 59  0000 L BNN
+F 1 "100n" H 6940 2035 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 6800 2100 50  0001 C CNN
+F 3 "" H 6800 2100 50  0001 C CNN
+	1    6800 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-5V #P-13
+U 1 1 14C46FBD
+P 6800 2500
+AR Path="/14C46FBD" Ref="#P-13"  Part="1" 
+AR Path="/5FB0FF99/14C46FBD" Ref="#P-013"  Part="1" 
+F 0 "#P-013" H 6800 2500 50  0001 C CNN
+F 1 "-5V" V 6700 2400 59  0000 L BNN
+F 2 "" H 6800 2500 50  0001 C CNN
+F 3 "" H 6800 2500 50  0001 C CNN
+	1    6800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+5V #P+13
+U 1 1 076294F3
+P 6800 1300
+AR Path="/076294F3" Ref="#P+13"  Part="1" 
+AR Path="/5FB0FF99/076294F3" Ref="#P+013"  Part="1" 
+F 0 "#P+013" H 6800 1300 50  0001 C CNN
+F 1 "+5V" V 6700 1100 59  0000 L BNN
+F 2 "" H 6800 1300 50  0001 C CNN
+F 3 "" H 6800 1300 50  0001 C CNN
+	1    6800 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:OPAMP-DUAL IC5
+U 3 1 343CBE8A
+P 4300 1900
+AR Path="/343CBE8A" Ref="IC5"  Part="3" 
+AR Path="/5FB0FF99/343CBE8A" Ref="IC5"  Part="3" 
+F 0 "IC5" H 4400 2125 59  0001 L BNN
+F 1 "TL072" H 4400 1700 59  0001 L BNN
+F 2 "VCO3340:SO08" H 4300 1900 50  0001 C CNN
+F 3 "" H 4300 1900 50  0001 C CNN
+	3    4300 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C14
+U 1 1 33AB6B9F
+P 4500 1700
+AR Path="/33AB6B9F" Ref="C14"  Part="1" 
+AR Path="/5FB0FF99/33AB6B9F" Ref="C14"  Part="1" 
+F 0 "C14" H 4640 1725 59  0000 L BNN
+F 1 "100n" H 4640 1635 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 4500 1700 50  0001 C CNN
+F 3 "" H 4500 1700 50  0001 C CNN
+	1    4500 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CAPACITOR0805 C15
+U 1 1 1C9A3717
+P 4500 2100
+AR Path="/1C9A3717" Ref="C15"  Part="1" 
+AR Path="/5FB0FF99/1C9A3717" Ref="C15"  Part="1" 
+F 0 "C15" H 4640 2125 59  0000 L BNN
+F 1 "100n" H 4640 2035 59  0000 L BNN
+F 2 "VCO3340:C-0805" H 4500 2100 50  0001 C CNN
+F 3 "" H 4500 2100 50  0001 C CNN
+	1    4500 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:MC78L05A U2
+U 1 1 455EE6D3
+P 7100 4000
+AR Path="/455EE6D3" Ref="U2"  Part="1" 
+AR Path="/5FB0FF99/455EE6D3" Ref="U2"  Part="1" 
+F 0 "U2" H 6810 4140 59  0000 L BNN
+F 1 "MC78L05A" H 7100 4000 50  0001 C CNN
+F 2 "VCO3340:SOT89" H 7100 4000 50  0001 C CNN
+F 3 "" H 7100 4000 50  0001 C CNN
+	1    7100 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+12
+U 1 1 F0140430
+P 6600 3700
+AR Path="/F0140430" Ref="#P+12"  Part="1" 
+AR Path="/5FB0FF99/F0140430" Ref="#P+012"  Part="1" 
+F 0 "#P+012" H 6600 3700 50  0001 C CNN
+F 1 "+12V" V 6500 3500 59  0000 L BNN
+F 2 "" H 6600 3700 50  0001 C CNN
+F 3 "" H 6600 3700 50  0001 C CNN
+	1    6600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+5V #P+14
+U 1 1 A96F531A
+P 7600 3700
+AR Path="/A96F531A" Ref="#P+14"  Part="1" 
+AR Path="/5FB0FF99/A96F531A" Ref="#P+014"  Part="1" 
+F 0 "#P+014" H 7600 3700 50  0001 C CNN
+F 1 "+5V" V 7500 3500 59  0000 L BNN
+F 2 "" H 7600 3700 50  0001 C CNN
+F 3 "" H 7600 3700 50  0001 C CNN
+	1    7600 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND22
+U 1 1 FBBD076C
+P 7100 4400
+AR Path="/FBBD076C" Ref="#GND22"  Part="1" 
+AR Path="/5FB0FF99/FBBD076C" Ref="#GND022"  Part="1" 
+F 0 "#GND022" H 7100 4400 50  0001 C CNN
+F 1 "GND" H 7000 4300 59  0000 L BNN
+F 2 "" H 7100 4400 50  0001 C CNN
+F 3 "" H 7100 4400 50  0001 C CNN
+	1    7100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+10
+U 1 1 886C3673
+P 3300 3500
+AR Path="/886C3673" Ref="#P+10"  Part="1" 
+AR Path="/5FB0FF99/886C3673" Ref="#P+010"  Part="1" 
+F 0 "#P+010" H 3300 3500 50  0001 C CNN
+F 1 "+12V" V 3200 3300 59  0000 L BNN
+F 2 "" H 3300 3500 50  0001 C CNN
+F 3 "" H 3300 3500 50  0001 C CNN
+	1    3300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-9
+U 1 1 B4C445CE
+P 3300 4700
+AR Path="/B4C445CE" Ref="#P-9"  Part="1" 
+AR Path="/5FB0FF99/B4C445CE" Ref="#P-09"  Part="1" 
+F 0 "#P-09" H 3300 4700 50  0001 C CNN
+F 1 "-12V" V 3200 4600 59  0000 L BNN
+F 2 "" H 3300 4700 50  0001 C CNN
+F 3 "" H 3300 4700 50  0001 C CNN
+	1    3300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:DIODESOD-123 D4
+U 1 1 F5068E1D
+P 3300 3800
+AR Path="/F5068E1D" Ref="D4"  Part="1" 
+AR Path="/5FB0FF99/F5068E1D" Ref="D4"  Part="1" 
+F 0 "D4" H 3100 3870 59  0000 L BNN
+F 1 "DIODESOD-123" H 3110 3690 34  0000 L BNN
+F 2 "VCO3340:SOD-123" H 3300 3800 50  0001 C CNN
+F 3 "" H 3300 3800 50  0001 C CNN
+	1    3300 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:DIODESOD-123 D5
+U 1 1 9E0BEA3A
+P 3300 4300
+AR Path="/9E0BEA3A" Ref="D5"  Part="1" 
+AR Path="/5FB0FF99/9E0BEA3A" Ref="D5"  Part="1" 
+F 0 "D5" H 3100 4370 59  0000 L BNN
+F 1 "DIODESOD-123" H 3110 4190 34  0000 L BNN
+F 2 "VCO3340:SOD-123" H 3300 4300 50  0001 C CNN
+F 3 "" H 3300 4300 50  0001 C CNN
+	1    3300 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CPOL-USC C17
+U 1 1 C7CF2A02
+P 5600 4200
+AR Path="/C7CF2A02" Ref="C17"  Part="1" 
+AR Path="/5FB0FF99/C7CF2A02" Ref="C17"  Part="1" 
+F 0 "C17" H 5640 4225 59  0000 L BNN
+F 1 "47u" H 5640 4035 59  0000 L BNN
+F 2 "VCO3340:PANASONIC_C" H 5600 4200 50  0001 C CNN
+F 3 "" H 5600 4200 50  0001 C CNN
+	1    5600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND20
+U 1 1 9DCBE17A
+P 5600 4500
+AR Path="/9DCBE17A" Ref="#GND20"  Part="1" 
+AR Path="/5FB0FF99/9DCBE17A" Ref="#GND020"  Part="1" 
+F 0 "#GND020" H 5600 4500 50  0001 C CNN
+F 1 "GND" H 5500 4400 59  0000 L BNN
+F 2 "" H 5600 4500 50  0001 C CNN
+F 3 "" H 5600 4500 50  0001 C CNN
+	1    5600 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND23
+U 1 1 AA6367B1
+P 7600 4500
+AR Path="/AA6367B1" Ref="#GND23"  Part="1" 
+AR Path="/5FB0FF99/AA6367B1" Ref="#GND023"  Part="1" 
+F 0 "#GND023" H 7600 4500 50  0001 C CNN
+F 1 "GND" H 7500 4400 59  0000 L BNN
+F 2 "" H 7600 4500 50  0001 C CNN
+F 3 "" H 7600 4500 50  0001 C CNN
+	1    7600 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CPOL-USC C23
+U 1 1 59D1F942
+P 7600 4200
+AR Path="/59D1F942" Ref="C23"  Part="1" 
+AR Path="/5FB0FF99/59D1F942" Ref="C23"  Part="1" 
+F 0 "C23" H 7640 4225 59  0000 L BNN
+F 1 "47u" H 7640 4035 59  0000 L BNN
+F 2 "VCO3340:PANASONIC_C" H 7600 4200 50  0001 C CNN
+F 3 "" H 7600 4200 50  0001 C CNN
+	1    7600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CPOL-USC C20
+U 1 1 9B72F564
+P 6600 4200
+AR Path="/9B72F564" Ref="C20"  Part="1" 
+AR Path="/5FB0FF99/9B72F564" Ref="C20"  Part="1" 
+F 0 "C20" H 6640 4225 59  0000 L BNN
+F 1 "47u" H 6640 4035 59  0000 L BNN
+F 2 "VCO3340:PANASONIC_C" H 6600 4200 50  0001 C CNN
+F 3 "" H 6600 4200 50  0001 C CNN
+	1    6600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND21
+U 1 1 B6C57476
+P 6600 4500
+AR Path="/B6C57476" Ref="#GND21"  Part="1" 
+AR Path="/5FB0FF99/B6C57476" Ref="#GND021"  Part="1" 
+F 0 "#GND021" H 6600 4500 50  0001 C CNN
+F 1 "GND" H 6500 4400 59  0000 L BNN
+F 2 "" H 6600 4500 50  0001 C CNN
+F 3 "" H 6600 4500 50  0001 C CNN
+	1    6600 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:CPOL-USC C16
+U 1 1 453950AD
+P 4500 4200
+AR Path="/453950AD" Ref="C16"  Part="1" 
+AR Path="/5FB0FF99/453950AD" Ref="C16"  Part="1" 
+F 0 "C16" H 4540 4225 59  0000 L BNN
+F 1 "47u" H 4540 4035 59  0000 L BNN
+F 2 "VCO3340:PANASONIC_C" H 4500 4200 50  0001 C CNN
+F 3 "" H 4500 4200 50  0001 C CNN
+	1    4500 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND17
+U 1 1 D1FA1B5E
+P 4500 4500
+AR Path="/D1FA1B5E" Ref="#GND17"  Part="1" 
+AR Path="/5FB0FF99/D1FA1B5E" Ref="#GND017"  Part="1" 
+F 0 "#GND017" H 4500 4500 50  0001 C CNN
+F 1 "GND" H 4400 4400 59  0000 L BNN
+F 2 "" H 4500 4500 50  0001 C CNN
+F 3 "" H 4500 4500 50  0001 C CNN
+	1    4500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:A3L-LOC #FRAME3
+U 1 1 6B0D8D20
+P 900 10100
+AR Path="/6B0D8D20" Ref="#FRAME3"  Part="1" 
+AR Path="/5FB0FF99/6B0D8D20" Ref="#FRAME3"  Part="1" 
+F 0 "#FRAME3" H 900 10100 50  0001 C CNN
+F 1 "A3L-LOC" H 900 10100 50  0001 C CNN
+F 2 "" H 900 10100 50  0001 C CNN
+F 3 "" H 900 10100 50  0001 C CNN
+	1    900  10100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:M06 OUT
+U 1 1 00E7AA9E
+P 14600 3500
+AR Path="/00E7AA9E" Ref="OUT"  Part="1" 
+AR Path="/5FB0FF99/00E7AA9E" Ref="OUT1"  Part="1" 
+F 0 "OUT1" H 14400 4130 59  0000 L BNN
+F 1 "M06" H 14400 3300 59  0000 L BNN
+F 2 "VCO3340:M06" H 14600 3500 50  0001 C CNN
+F 3 "" H 14600 3500 50  0001 C CNN
+	1    14600 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:M06 CTRL
+U 1 1 51AA66A1
+P 13800 3500
+AR Path="/51AA66A1" Ref="CTRL"  Part="1" 
+AR Path="/5FB0FF99/51AA66A1" Ref="CTRL1"  Part="1" 
+F 0 "CTRL1" H 13600 4130 59  0000 L BNN
+F 1 "M06" H 13600 3300 59  0000 L BNN
+F 2 "VCO3340:M06" H 13800 3500 50  0001 C CNN
+F 3 "" H 13800 3500 50  0001 C CNN
+	1    13800 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:M06 POWER
+U 1 1 13DBCEA2
+P 14500 1300
+AR Path="/13DBCEA2" Ref="POWER"  Part="1" 
+AR Path="/5FB0FF99/13DBCEA2" Ref="POWER1"  Part="1" 
+F 0 "POWER1" H 14300 1930 59  0000 L BNN
+F 1 "M06" H 14300 1100 59  0000 L BNN
+F 2 "VCO3340:M06" H 14500 1300 50  0001 C CNN
+F 3 "" H 14500 1300 50  0001 C CNN
+	1    14500 1300
+	1    0    0    1   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:M06 KNOB
+U 1 1 A49C16F9
+P 13800 1300
+AR Path="/A49C16F9" Ref="KNOB"  Part="1" 
+AR Path="/5FB0FF99/A49C16F9" Ref="KNOB1"  Part="1" 
+F 0 "KNOB1" H 13600 1930 59  0000 L BNN
+F 1 "M06" H 13600 1100 59  0000 L BNN
+F 2 "VCO3340:M06" H 13800 1300 50  0001 C CNN
+F 3 "" H 13800 1300 50  0001 C CNN
+	1    13800 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND24
+U 1 1 E73C58C9
+P 13500 3800
+AR Path="/E73C58C9" Ref="#GND24"  Part="1" 
+AR Path="/5FB0FF99/E73C58C9" Ref="#GND024"  Part="1" 
+F 0 "#GND024" H 13500 3800 50  0001 C CNN
+F 1 "GND" H 13400 3700 59  0000 L BNN
+F 2 "" H 13500 3800 50  0001 C CNN
+F 3 "" H 13500 3800 50  0001 C CNN
+	1    13500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND26
+U 1 1 A5262D8C
+P 14900 3800
+AR Path="/A5262D8C" Ref="#GND26"  Part="1" 
+AR Path="/5FB0FF99/A5262D8C" Ref="#GND026"  Part="1" 
+F 0 "#GND026" H 14900 3800 50  0001 C CNN
+F 1 "GND" H 14800 3700 59  0000 L BNN
+F 2 "" H 14900 3800 50  0001 C CNN
+F 3 "" H 14900 3800 50  0001 C CNN
+	1    14900 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+18
+U 1 1 0DE1568E
+P 15300 800
+AR Path="/0DE1568E" Ref="#P+18"  Part="1" 
+AR Path="/5FB0FF99/0DE1568E" Ref="#P+018"  Part="1" 
+F 0 "#P+018" H 15300 800 50  0001 C CNN
+F 1 "+12V" V 15200 600 59  0000 L BNN
+F 2 "" H 15300 800 50  0001 C CNN
+F 3 "" H 15300 800 50  0001 C CNN
+	1    15300 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-17
+U 1 1 321CBBFC
+P 15300 2300
+AR Path="/321CBBFC" Ref="#P-17"  Part="1" 
+AR Path="/5FB0FF99/321CBBFC" Ref="#P-017"  Part="1" 
+F 0 "#P-017" H 15300 2300 50  0001 C CNN
+F 1 "-12V" V 15200 2200 59  0000 L BNN
+F 2 "" H 15300 2300 50  0001 C CNN
+F 3 "" H 15300 2300 50  0001 C CNN
+	1    15300 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-5V #P-15
+U 1 1 5E73643A
+P 15100 2100
+AR Path="/5E73643A" Ref="#P-15"  Part="1" 
+AR Path="/5FB0FF99/5E73643A" Ref="#P-015"  Part="1" 
+F 0 "#P-015" H 15100 2100 50  0001 C CNN
+F 1 "-5V" V 15000 2000 59  0000 L BNN
+F 2 "" H 15100 2100 50  0001 C CNN
+F 3 "" H 15100 2100 50  0001 C CNN
+	1    15100 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+5V #P+17
+U 1 1 99B3F372
+P 15100 1000
+AR Path="/99B3F372" Ref="#P+17"  Part="1" 
+AR Path="/5FB0FF99/99B3F372" Ref="#P+017"  Part="1" 
+F 0 "#P+017" H 15100 1000 50  0001 C CNN
+F 1 "+5V" V 15000 800 59  0000 L BNN
+F 2 "" H 15100 1000 50  0001 C CNN
+F 3 "" H 15100 1000 50  0001 C CNN
+	1    15100 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:M08X2 EXPANSION
+U 1 1 6F929B1B
+P 14000 5000
+AR Path="/6F929B1B" Ref="EXPANSION"  Part="1" 
+AR Path="/5FB0FF99/6F929B1B" Ref="EXPANSION1"  Part="1" 
+F 0 "EXPANSION1" H 14500 5830 59  0000 R BNN
+F 1 "M08X2" H 13900 4800 59  0000 L BNN
+F 2 "VCO3340:M08X2" H 14000 5000 50  0001 C CNN
+F 3 "" H 14000 5000 50  0001 C CNN
+	1    14000 5000
+	1    0    0    1   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:GND #GND25
+U 1 1 F8CFB2B4
+P 13600 6000
+AR Path="/F8CFB2B4" Ref="#GND25"  Part="1" 
+AR Path="/5FB0FF99/F8CFB2B4" Ref="#GND025"  Part="1" 
+F 0 "#GND025" H 13600 6000 50  0001 C CNN
+F 1 "GND" H 13500 5900 59  0000 L BNN
+F 2 "" H 13600 6000 50  0001 C CNN
+F 3 "" H 13600 6000 50  0001 C CNN
+	1    13600 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+12V #P+16
+U 1 1 AE96517B
+P 13500 4700
+AR Path="/AE96517B" Ref="#P+16"  Part="1" 
+AR Path="/5FB0FF99/AE96517B" Ref="#P+016"  Part="1" 
+F 0 "#P+016" H 13500 4700 50  0001 C CNN
+F 1 "+12V" V 13400 4500 59  0000 L BNN
+F 2 "" H 13500 4700 50  0001 C CNN
+F 3 "" H 13500 4700 50  0001 C CNN
+	1    13500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-12V #P-14
+U 1 1 1A5B1C02
+P 14800 4700
+AR Path="/1A5B1C02" Ref="#P-14"  Part="1" 
+AR Path="/5FB0FF99/1A5B1C02" Ref="#P-014"  Part="1" 
+F 0 "#P-014" H 14800 4700 50  0001 C CNN
+F 1 "-12V" V 14700 4600 59  0000 L BNN
+F 2 "" H 14800 4700 50  0001 C CNN
+F 3 "" H 14800 4700 50  0001 C CNN
+	1    14800 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:-5V #P-16
+U 1 1 F459F438
+P 15100 4800
+AR Path="/F459F438" Ref="#P-16"  Part="1" 
+AR Path="/5FB0FF99/F459F438" Ref="#P-016"  Part="1" 
+F 0 "#P-016" H 15100 4800 50  0001 C CNN
+F 1 "-5V" V 15000 4700 59  0000 L BNN
+F 2 "" H 15100 4800 50  0001 C CNN
+F 3 "" H 15100 4800 50  0001 C CNN
+	1    15100 4800
+	-1   0    0    1   
+$EndComp
+$Comp
+L VCO-Simple-Back-eagle-import:+5V #P+15
+U 1 1 76ABD9D3
+P 13200 4800
+AR Path="/76ABD9D3" Ref="#P+15"  Part="1" 
+AR Path="/5FB0FF99/76ABD9D3" Ref="#P+015"  Part="1" 
+F 0 "#P+015" H 13200 4800 50  0001 C CNN
+F 1 "+5V" V 13100 4600 59  0000 L BNN
+F 2 "" H 13200 4800 50  0001 C CNN
+F 3 "" H 13200 4800 50  0001 C CNN
+	1    13200 4800
+	1    0    0    -1  
+$EndComp
+Text Notes 2100 1100 0    59   ~ 0
+LIN FM BUFFER
+Text Notes 5600 1100 0    59   ~ 0
+3340
+Text Notes 3400 1100 0    59   ~ 0
+TRI/SAW OUT
+Text Notes 6700 1100 0    59   ~ 0
+PULSE-OUT
+Text Notes 4400 1100 0    59   ~ 0
+SIN OUT
+Wire Wire Line
+	5700 1400 5700 1600
+Wire Wire Line
+	2500 4100 2900 4100
+Wire Wire Line
+	2900 4100 3300 4100
+Wire Wire Line
+	14700 1600 15300 1600
+Wire Wire Line
+	5700 2200 5700 2400
+NoConn ~ 13600 1600
+NoConn ~ 13600 1700
+NoConn ~ 13600 1800
+NoConn ~ 14700 1800
+NoConn ~ 14700 5500
+$EndSCHEMATC
